@@ -21,7 +21,7 @@
 		"I'm looking for my magic banjo.": "ここへは幻奏のバンジョーを探しに来たんだ。",
 		"Your magic... banjo?": "幻奏の...バンジョー？",
 		"That's right! A group of Nomai stole it from me and fled to this solar system.": "そうなんだ。調査任務を一緒にやっている仲間たちが私から幻奏のバンジョーというものをぬすんでこの星系に逃げてきたんだ。",
-		"I only just started searching, but I've determined that it is not on <![CDATA[<color=orange>Timber Hearth</color>]]>.": "まだ探し始めたばかりなんだけど、<![CDATA[<color=orange>木の炉辺</color>]]>にはないとわかった。",
+		"I only just started searching, but I've determined that it is not on <![CDATA[<color=orange>Timber Hearth</color>]]>.": "まだ探し始めたばかりなんだけど、<![CDATA[<color=orange>木の炉端</color>]]>にはないとわかった。",
 		"I tried using the radio at the house behind me to locate it, but I can't get it to work. It doesn't seem to be making any <![CDATA[<color=orange>sound</color>]]>.": "後ろの家にあるラジオを使って場所を特定しようとしたんだけど、上手くいかない。全く<![CDATA[<color=orange>音</color>]]>が聞こえないんだ。",
 		"It's a bit more analog than I'm used to.": "私の世界のものよりもアナログなんだよね。",
 		"Anyway, I'm going to rest here for a moment before continuing. If you wouldn't mind, keep an eye out for my magic banjo.": "ここでもうちょっと休んでから探すことにするよ。もし手伝ってくれるようなら、幻奏のバンジョーに目を光らせておいて。",
@@ -37,7 +37,7 @@
 		"BRIDGE: I hate this planet.": "BRIDGE:この惑星はなんなんだ。",
 		"BRIDGE: Believe it or not, but I don't enjoy being bombarded by meteors every 22 seconds!": "BRIDGE:信じられないかもしれないけど、22秒ごとに隕石が降ってくる!",
 		"BRIDGE: However, it has been worth it to study the fascinating <![CDATA[<color=orange>quantum mechanics</color>]]> this planet offers. This is definitely something we can use on this mission.": "BRIDGE:だが<![CDATA[<color=orange>量子力学</color>]]>を研究するにはもってこいの惑星だよ。間違いなく任務に役立つだろう。",
-		"BRIDGE: At least this place is more interesting than that moon Rim went to.": "BRIDGE:少なくともRimが向かった月よりは興味深い場所だ。",
+		"BRIDGE: At least this place is more interesting than that moon Rim went to.":　"BRIDGE: 少なくともRimが向かった月よりは興味深い場所だ。",
 
 		"RESON: While this planet is far from what we need to execute our plans, it has been a scientific thrill to explore.": "RESON:この惑星は我々の任務を実行するのには条件が合わないが、探検するには科学的な刺激のある場所であった。",
 		"RESON: I do not believe the jellyfish that call this place home are native to this planet. I would love to study them further.": "RESON:ここを住み家にしているクラゲがこの惑星で発生したものとは思えない。もっと研究してみたいものだ。",
@@ -76,7 +76,7 @@
 		"I ran a few tests on it. It has a similar consistency to the ice found at the <![CDATA[<color=orange>Lost Village</color>]]>.": "調査してみたんだけど、<![CDATA[<color=orange>置き去り村</color>]]>で見つかった氷と同じもののようなの。",
 		"I've seen this ice all over the galaxy! I wonder where it all came from?": "この氷はこの銀河のいろんなところで見つかっているわ！一体どこから来たものなのかしら？",
 		"However, I think I have a more important question...": "ところで、もっと重要な問題があるの...",
-		"Who will be the first person to stand on top of this thing?": "誰が一番最初にこの氷柱のてっぺんに立ったのかしら？",
+		"Who will be the first person to stand on top of this thing?": "誰が一番最初にこの氷柱のてっんに立ったのかしら？",
 		"I'm going to keep looking around.": "このまま見て回るつもりだ。",
 		"Go forth.": "そうして。",
 
@@ -113,7 +113,7 @@
 		"Hello. Are you here to chat?": "こんにちは、おしゃべりでもしに来たのかい？",
 		"It's good to see you again.": "また会えて嬉しいよ。",
 		"It's good to see you, too! Thanks for chatting with me earlier. You really helped me sort out my thoughts.": "こちらこそ！この前はありがとう。考えを整理するのにとても助かったよ。",
-		"I would love for you to stop by my house sometime! It's located at the <![CDATA[<color=orange>south pole of Green Base</color>]]>.": "君にはいつかうちに立ち寄ってもらいたい。<![CDATA[<color=orange>草燃の台地の南極</color>]]>の方にある家なんだ。",
+		"I would love for you to stop by my house sometime! It's located at the <![CDATA[<color=orange>south pole of Green Base</color>]]>.": "君にはいつかうちに立ち寄ってもらいたい。<![CDATA[<color=orange>縁炎の台地の南極</color>]]>の方にある家なんだ。",
 		"Or what's left of it, anyway.": "家というか残骸かな、まあいいけど。",
 		"Why are you out here?": "なぜこんなところに？",
 		"I came out here to brighten up this planetoid with a little plant life.": "この小惑星に植物を植えて明るい場所にしようと思っているのさ。",
@@ -134,7 +134,7 @@
 		"A creation is subject to the wills of its creator.": "創造物は創り手の支配下にある。",
 		"A creation has the right to do whatever it wants, regardless of what its creator thinks.": "創造物は創り手を離れてどんな形でも存在することができる。",
 		"It depends on the situation.": "場合によるかな。",
-		"Fascinating. Do you truly believe those things?": "素晴らしい。本当にそう信じているのかい？",
+		"Fascinating. Do you truly believe those things?": "おもしろい。本当にそう信じているのかい？",
 		"Yes.": "はい。",
 		"Good. Hold fast to your beliefs. Sometimes they are all we have.": "いいね。自分の信念をしっかり持っているみたいだね。時としてそれが自分自身を支えるものになる。",
 		"No.": "いいえ。",
@@ -146,7 +146,7 @@
 
 
 		"Hello! Welcome to the Banjo Galaxy.": "やあ！ようこそバンジョーギャラクシーへ。",
-		"Green Base is lovely today, isn't it?": "草燃の台地は素晴らしいでしょ？",
+		"Green Base is lovely today, isn't it?": "縁炎の台地は素晴らしいでしょ？",
 		"Riebeck? What are you doing here?": "Riebeck？どうしてここに？",
 		"Riebeck? You must be confusing me with someone else. I'm <![CDATA[<color=orange>Tuner</color>]]>.": "Riebeck？誰かと間違えちゃいないかな？僕は<![CDATA[<color=orange>Tuner</color>]]>さ。",
 		"I'm an explorer from somewhere very far away. I came looking for inspiration to write a new song.": "とても遠いところからやってきた探検者なんだ。曲を書くためのインスピレーションを求めてここまで来た。",
@@ -154,7 +154,7 @@
 		"That's the tricky part about improving yourself... You have to always be seeking out new hobbies and skills.": "そこがちょっとややこしい話なんだけど、自分自身を高めたいなら、常に新しいものやスキルを取り入れていかないとね。",
 		"That's why I haven't stopped playing since we started talking. Hope it doesn't bother you.": "だから君と話しだしてからも演奏をやめてないでしょ？迷惑じゃないといいんだけど。",
 		"Where are we?": "私たちはどこにいるの？",
-		"You're currently standing in the <![CDATA[<color=orange>Lost Village</color>]]> on Green Base.": "僕らは今、草燃の台地の<![CDATA[<color=orange>置き去り村</color>]]>にいるんだよ。",
+		"You're currently standing in the <![CDATA[<color=orange>Lost Village</color>]]> on Green Base.": "僕らは今、縁炎の台地の<![CDATA[<color=orange>置き去り村</color>]]>にいるんだよ。",
 		"Or that's my name for it, anyway. I thought it was fitting.": "まあ、置き去り村なんて名付けたのは僕なんだけど。それがお似合いな場所だと思うからね。",
 		"Apparently this planet went through an ice age or two, and the previous tenants got sick of it and left. Well, most of them did anyway.": "どうやらこの惑星は一度や二度、氷河期を経ているようなんだ。それで前の住人は嫌になっちゃって出て行ったみたい。まあ、そうするよね。",
 		"I don't know much else than that. There's a lot of recordings scattered around that I can't translate. Perhaps you have <![CDATA[<color=orange>something that can translate them</color>]]>.": "それ以外のことはあんまりわからない。訳せない記録がたくさん散らばっているんだ。もしかしたら君の持ってるその<![CDATA[<color=orange>翻訳装置</color>]]>なら行けるかもしれないね。",
@@ -224,7 +224,7 @@
 		"There is a visitor somewhere in the Village.": "村に来訪者がいるようだ。",
 		"A Visitor": "来訪者",
 		"I met a Nomai named Fret in the Village. He said he is looking for his magic banjo that was stolen from him.": "私は村でFretというNomaiに出会った。 彼は仲間にぬすまれた幻奏のバンジョーを探していると言っていた。",
-		"Fret said that the banjo is not on Timber Hearth.": "Fretによると幻奏のバンジョーは木の炉辺にはないとのことだった。",
+		"Fret said that the banjo is not on Timber Hearth.": "Fretによると幻奏のバンジョーは木の炉端にはないとのことだった。",
 		"The radio outside Gneiss's house is emitting a weird signal.": "Gneissの家の外にあるラジオは奇妙な信号を発していた。",
 
 		"Strange Signal 1": "奇妙な信号 1",
@@ -284,11 +284,11 @@
 		"Strum's House": "Strumの家",
 		"Invitation": "招待",
 		"Strum just finished a big project that he was very proud of. However, he isn't telling anyone what it is because he is scared of being mocked.": "Strumは大きなプロジェクトを終えたばかり。だが、他人にバカにされるのを恐れて誰にも言えないでいる。",
-		"Strum invited me to visit what's left of his house near the south pole of Green Base.": "私は草燃の台地の南極近くにあるStrumの家に招かれた。",
+		"Strum invited me to visit what's left of his house near the south pole of Green Base.": "私は縁炎の台地の南極近くにあるStrumの家に招かれた。",
 
 		"Ernesto": "Ernesto",
 		"I found a friendly anglerfish skeleton named Ernesto. He told me that some of his friends can be found on Dried Tears.": "私はErnestoという友好的なアンコウの骨を見つけた。Ernestoの友人たちがなみだの乾きにいると教えてくれた。",
-		"An anglerfish skeleton on Green Base told me he has friends on Dried Tears.": "草燃の台地にいるアンコウの骨はなみだの乾きに友人がいると教えてくれた。",
+		"An anglerfish skeleton on Green Base told me he has friends on Dried Tears.": "縁炎の台地にいるアンコウの骨はなみだの乾きに友人がいると教えてくれた。",
 
 		"Anglerfish Skeletons": "アンコウの骨",
 		"Ernesto's Friends": "Ernestoの友人",
@@ -305,7 +305,7 @@
 
 		"The Magic Banjo": "幻奏のバンジョー",
 		"Lost Strings": "絶たれた張糸",
-		"Green Base": "草燃の台地",
+		"Green Base": "縁炎の台地",
 		"Dried Tears": "なみだの乾き",
 		"Bracket's Rest": "止め金の休息",
 
