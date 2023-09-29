@@ -21,7 +21,7 @@
 		"I'm looking for my magic banjo.": "ここへは幻奏のバンジョーを探しに来たんだ。",
 		"Your magic... banjo?": "幻奏の...バンジョー？",
 		"That's right! A group of Nomai stole it from me and fled to this solar system.": "そうなんだ。調査任務を一緒にやっている仲間たちが私から幻奏のバンジョーというものをぬすんでこの星系に逃げてきたんだ。",
-		"I only just started searching, but I've determined that it is not on <![CDATA[<color=orange>Timber Hearth</color>]]>.": "まだ探し始めたばかりなんだけど、<![CDATA[<color=orange>木の炉端</color>]]>にはないとわかった。",
+		"I only just started searching, but I've determined that it is not on <![CDATA[<color=orange>Timber Hearth</color>]]>.": "まだ探し始めたばかりなんだけど、<![CDATA[<color=orange>木の炉辺</color>]]>にはないとわかった。",
 		"I tried using the radio at the house behind me to locate it, but I can't get it to work. It doesn't seem to be making any <![CDATA[<color=orange>sound</color>]]>.": "後ろの家にあるラジオを使って場所を特定しようとしたんだけど、上手くいかない。全く<![CDATA[<color=orange>音</color>]]>が聞こえないんだ。",
 		"It's a bit more analog than I'm used to.": "私の世界のものよりもアナログなんだよね。",
 		"Anyway, I'm going to rest here for a moment before continuing. If you wouldn't mind, keep an eye out for my magic banjo.": "ここでもうちょっと休んでから探すことにするよ。もし手伝ってくれるようなら、幻奏のバンジョーに目を光らせておいて。",
@@ -37,7 +37,7 @@
 		"BRIDGE: I hate this planet.": "BRIDGE:この惑星はなんなんだ。",
 		"BRIDGE: Believe it or not, but I don't enjoy being bombarded by meteors every 22 seconds!": "BRIDGE:信じられないかもしれないけど、22秒ごとに隕石が降ってくる!",
 		"BRIDGE: However, it has been worth it to study the fascinating <![CDATA[<color=orange>quantum mechanics</color>]]> this planet offers. This is definitely something we can use on this mission.": "BRIDGE:だが<![CDATA[<color=orange>量子力学</color>]]>を研究するにはもってこいの惑星だよ。間違いなく任務に役立つだろう。",
-		"BRIDGE: At least this place is more interesting than that moon Rim went to.":　"BRIDGE: 少なくともRimが向かった月よりは興味深い場所だ。",
+		"BRIDGE: At least this place is more interesting than that moon Rim went to.":　"BRIDGE:少なくともRimが向かった月よりは興味深い場所だ。",
 
 		"RESON: While this planet is far from what we need to execute our plans, it has been a scientific thrill to explore.": "RESON:この惑星は我々の任務を実行するのには条件が合わないが、探検するには科学的な刺激のある場所であった。",
 		"RESON: I do not believe the jellyfish that call this place home are native to this planet. I would love to study them further.": "RESON:ここを住み家にしているクラゲがこの惑星で発生したものとは思えない。もっと研究してみたいものだ。",
@@ -224,7 +224,7 @@
 		"There is a visitor somewhere in the Village.": "村に来訪者がいるようだ。",
 		"A Visitor": "来訪者",
 		"I met a Nomai named Fret in the Village. He said he is looking for his magic banjo that was stolen from him.": "私は村でFretというNomaiに出会った。 彼は仲間にぬすまれた幻奏のバンジョーを探していると言っていた。",
-		"Fret said that the banjo is not on Timber Hearth.": "Fretによると幻奏のバンジョーは木の炉端にはないとのことだった。",
+		"Fret said that the banjo is not on Timber Hearth.": "Fretによると幻奏のバンジョーは木の炉辺にはないとのことだった。",
 		"The radio outside Gneiss's house is emitting a weird signal.": "Gneissの家の外にあるラジオは奇妙な信号を発していた。",
 
 		"Strange Signal 1": "奇妙な信号 1",
